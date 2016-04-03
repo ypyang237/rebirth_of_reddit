@@ -7,7 +7,7 @@
 
 body #container::after {
   content: "";
-  background: url("backGroundReddit.jpeg") no-repeat center;
+  background: url("http://cmxhub.com/wp-content/uploads/2014/06/reddit.jpg") no-repeat center;
   background-size: contain;
   opacity: 0.5;
   top: 0;
