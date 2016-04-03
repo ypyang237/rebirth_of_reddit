@@ -54,7 +54,7 @@ var feedsBtn = document.getElementById('feedsBtn');
           article.appendChild(image);
         }
       } else{
-        var subImage = "css/redditisfun.jpeg";
+        var subImage = "public/css/redditisfun.jpeg";
         image.setAttribute('src', subImage);
         article.appendChild(image);
       }
